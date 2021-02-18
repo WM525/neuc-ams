@@ -1,0 +1,4 @@
+DB Name: neucams_db
+Username: root
+Password: 
+DB Host: localhost
